@@ -1,7 +1,7 @@
 # ================================
 # Project: LaunchForge
 # Description:
-# A top-_tier launchpad for transforming ideas into polished solutions.
+# A toptier launchpad for transforming ideas into polished solutions.
 # Built for momentum, innovation, and long-term growth.
 # ================================
 
