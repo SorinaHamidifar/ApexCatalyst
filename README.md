@@ -7,7 +7,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for LaunForge.
+Main entry point for LaunchForge.
 """
 
 from core.pipeline import IdeaPipeline
