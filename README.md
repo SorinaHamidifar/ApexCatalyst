@@ -105,7 +105,7 @@ def test_score():
 Tests for growth engine.
 """
 
-from core.growth import Growth
+from core.growth import GrowthEngine
 
 def test_project():
     engine = GrowthEngine()
