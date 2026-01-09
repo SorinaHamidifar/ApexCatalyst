@@ -63,7 +63,7 @@ class IdeaPipeline:
 
 # ---------- core/growth.py ----------
 """
-Growth and  logic for long-term project evolution.
+Growth and sustain logic for long-term project evolution.
 """
 
 class GrowthEngine:
