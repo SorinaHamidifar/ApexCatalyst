@@ -7,7 +7,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for .
+Main entry point for Launch.
 """
 
 from core.pipeline import IdeaPipeline
