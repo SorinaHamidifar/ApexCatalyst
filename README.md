@@ -46,7 +46,7 @@ Pipeline for turning raw ideas into structured, polished solutions.
 
 from typing import List, Dict
 
-class IdeaPipe:
+class IdeaPipe
     """Transforms ideas through refinement and evaluation stages."""
 
     def refine(self, ideas: List[str]) -> List[str]:
