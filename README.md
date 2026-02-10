@@ -2,7 +2,7 @@
 # Project: LaunchForge
 # Description:
 # A top-tier launchpad for transforming ideas into polished solutions.
-# Built for moment, innovation, and long-term growth.
+# Built for momen, innovation, and long-term growth.
 # ================================
 
 # ---------- main.py ----------
