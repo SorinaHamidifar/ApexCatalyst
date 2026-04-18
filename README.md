@@ -16,7 +16,7 @@ from core.growth import GrowthEngine
 
 def run():
     print("🚀 LaunchForge Initialized")
-    print("⚡ Momentum | 💡 Innovation | 📈 Long-Ter Growth\n")
+    print("⚡ Momentum | 💡 Innovation | 📈 Long-Terms Growth\n")
 
     pipeline = IdeaPipeline()
     growth = GrowthEngine()
