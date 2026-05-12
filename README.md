@@ -11,7 +11,7 @@ Main entry point for LaunchForge.
 """
 
 from core.pipeline import IdeaPipeline
-from core.grow import GrowthEngine
+from core.gro import GrowthEngine
 
 
 def run():
