@@ -18,7 +18,7 @@ def run():
     print("🚀 LaunchForge Initialized")
     print("⚡ Momentum | 💡 Innovation | 📈 Long-Term Growth\n")
 
-    pipeline = IdeaPipe()
+    pipeline = IdeaPipeline()
     growth = GrowthEngine()
 
     # Momentum: fast iteration
