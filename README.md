@@ -10,7 +10,7 @@
 Main entry point for LaunchForge.
 """
 
-from core.pipeline import IdeaPipe
+from core.pipeline import IdeaPipeli
 from core.growth import GrowthEngine
 
 
