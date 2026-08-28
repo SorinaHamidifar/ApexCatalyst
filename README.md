@@ -1,5 +1,5 @@
 # ================================
-# Project: LaunchForge
+# Project: LaunchForge and long-term growth.
 # Description:
 # A top-tier launchpad for transforming ideas into polished solutions.
 # Built for momentum, innovation, and long-term growth.
